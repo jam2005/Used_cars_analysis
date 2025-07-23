@@ -129,6 +129,8 @@ The Streamlit app (`app.py`) offers:
 - **Interface**: Two-column form for inputs (dropdowns for categorical features, numeric fields for `Kilometer` and `ModelYear`).
 - **Prediction**: Encodes inputs, aligns with model features, and displays predicted price in lakhs.
 - **Error Handling**: Manages invalid inputs (e.g., negative kilometers) and unseen categorical values with user-friendly messages.
+  ![Screenshot_23-7-2025_163712_localhost](https://github.com/user-attachments/assets/a5043f35-1190-4c94-a5c1-4560972954af)
+
 
 ## Performance Metrics
 Based on the original project, the RandomForest model achieves:
